@@ -724,11 +724,11 @@ Open a terminal and navigate to the directory where we will create the applicati
 cd /path/to/directory
 ```
 
-Now clone the GitHub repository, move into the newly `polkadot-amm` directory and install all the dependencies.
+Now clone the GitHub repository, move into the newly `polkadot-hackathon-docs` directory and install all the dependencies.
 
 ```text
-git clone https://github.com/realnimish/polkadot-amm.git
-cd polkadot-amm
+git clone https://github.com/realnimish/polkadot-hackathon-docs.git
+cd polkadot-hackathon-docs
 npm install
 ```
 
